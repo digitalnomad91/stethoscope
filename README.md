@@ -3,7 +3,7 @@
 [![Stethoscope CI](https://github.com/stethoscope-js/stethoscope/workflows/Stethoscope%20CI/badge.svg)](https://github.com/stethoscope-js/stethoscope/actions?query=workflow%3A%22Stethoscope+CI%22)
 [![Update Template CI](https://github.com/stethoscope-js/stethoscope/workflows/Update%20Template%20CI/badge.svg)](https://github.com/stethoscope-js/stethoscope/actions?query=workflow%3A%22Update+Template+CI%22)
 
-Track, visualize, and embed all your health and life data — location, health, work, play, and more.
+Track, visualize, and embed all your health and life data — location, health, work, play, and more!
 
 [**To get started, visit stethoscope.js.org →**](https://stethoscope.js.org)
 
